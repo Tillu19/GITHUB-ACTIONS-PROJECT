@@ -10,7 +10,6 @@ permissions:
   contents: read
 
 jobs:
-
   # --------------------------------
   # 1. Code Quality and Unit Testing
   # --------------------------------
