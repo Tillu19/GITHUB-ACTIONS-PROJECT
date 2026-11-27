@@ -1,5 +1,5 @@
 
-name: Free Controlled Release
+name: project
 
 on:
   workflow_dispatch:
