@@ -17,7 +17,6 @@ permissions:
   actions: read
 
 jobs:
-
   # JOB 1: Validate deployment input
   validate:
     name: Validate Deployment Target
